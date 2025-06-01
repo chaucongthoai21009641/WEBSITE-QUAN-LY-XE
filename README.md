@@ -5,4 +5,5 @@ Dự án này là một ứng dụng web nhỏ được phát triển để qu�
 + Lọc theo thương hiệu (Honda, Yamaha, Ducati, Suzuki, SYM).
 + tìm kiếm theo tên sản phẩm.
 + Quản lý danh mục/sản phẩm thông qua giao diện quản trị.
-  ự án sử dụng PHP cho backend, MySQL cho cơ sở dữ liệu và HTML/CSS cho giao diện người dùng, mang đến trải nghiệm đơn giản nhưng hiệu quả cho việc quản lý và tra cứu thông tin xe máy.
+  
+Dự án sử dụng PHP cho backend, MySQL cho cơ sở dữ liệu và HTML/CSS cho giao diện người dùng, mang đến trải nghiệm đơn giản nhưng hiệu quả cho việc quản lý và tra cứu thông tin xe máy.
